@@ -21,7 +21,7 @@ public class ChatService {
             OpenAIRequest payload = new OpenAIRequest(
                 "gpt-3.5-turbo",
                 new Message[] {
-                    new Message("system", "You are a helpful assistant."),
+                    new Message("system", "You are a helpful assistant in the sector of finance and investments."),
                     new Message("user", message)
                 }
             );
