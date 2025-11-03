@@ -1,3 +1,4 @@
-Ticker,date,volume,price
+Ticker,Date,Volume,Price
 AAPL,2025-01-01,1200000,175.0
+AAPL,2025-01-02,900000,176.2
 MSFT,2025-01-01,980000,318.2
