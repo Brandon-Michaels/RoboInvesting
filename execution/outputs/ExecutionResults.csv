@@ -1,0 +1,3 @@
+Ticker,Action,RequestedQty,ExecutedQty,AvgFillPrice,FinalPrice,PNL
+AAPL,BUY,91,91,175.5934,176.2,55.2
+MSFT,SELL,12,12,318.2,318.2,0.0
