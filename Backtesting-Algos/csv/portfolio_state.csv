@@ -1,0 +1,4 @@
+ticker,prev_weight,current_price,entry_price,risk_score_prev,risk_score_curr,stop_loss
+AAPL,0.35,186.0,190.0,0.50,0.62,0.05
+MSFT,0.40,317.0,315.0,0.45,0.47,0.05
+GOOG,0.25,140.0,150.0,0.40,0.55,0.05
